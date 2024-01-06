@@ -4,33 +4,44 @@ education:
   courses:
   - course: PhD in Data Science & Machine Learning, Statistics
     institution: NDSU
+    year: 2025
 first_name: Mabel
 highlight_name: true
 interests:
-- Artificial Intelligence
+- Data Science & Machine Learning
+- Embedding/ Representation Learning
+- Molecule Representations
+- Medicinal Chemistry and Drug Discovery
+- Biochmistry
 last_name: Yao
-name_pronunciation: Mabel Yao
+# name_pronunciation: Mabel Yao
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: NDSU
+  url: 
+role: PhD student focusing on data science & machine learning
+
 skills:
 - items:
-  - description: ""
+  - description: "Python, R, SAS, Julia, Latex, etc."
     icon: python
     icon_pack: fab
-    name: Python
-    percent: 80
-  - description: ""
+    name: Programmings 
+    percent: 100
+  - description: "statiscial science, machine learning"
     icon: chart-line
     icon_pack: fas
     name: Data Science
     percent: 100
-  - description: ""
+  - description: "SQL, HTML/CSS/JavaScript, Anaconda, Java"
     icon: database
     icon_pack: fas
-    name: SQL
-    percent: 40
+    name: Computer Science
+    percent: 80
+  - description: ""
+    icon: apple
+    icon_pack: fas
+    name: Computational Science
+    percent: 80
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
@@ -46,17 +57,26 @@ skills:
     name: Cats
     percent: 100
   - description: ""
+    icon: book
+    icon_pack: fas
+    name: Reading
+    percent: 100
+  - description: ""
     icon: camera-retro
     icon_pack: fas
     name: Photography
     percent: 80
-  name: Hobbies
+  name: Personal
 social:
 - icon: envelope
   icon_pack: fas
-  link:/#contact
+  link: /#contact
 - display:
-  header: true
+    header: true
+  icon: twitter
+  icon_pack: fab
+  label: Follow me on Twitter
+  link: https://twitter.com/zibuyu34788319
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=S7k_gdkAAAAJ&hl=en&authuser=1
@@ -72,8 +92,8 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: 青蓝紫
+title: Mabel Yao
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mabel Yao is a PhD student focusing on data science and machine learning, and applications of the related skills and techniques in multiple domains, such as molecule representations, drug discovery, material discovery. 
 {style="text-align: justify;"}
