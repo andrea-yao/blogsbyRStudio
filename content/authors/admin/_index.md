@@ -5,14 +5,16 @@ education:
   - course: PhD in Data Science & Machine Learning, Statistics
     institution: NDSU
     year: 2025
+  - course: Master in Data Science & Machine Learning, Computer Science
+    institution: NDSU
+    year: 2022
 first_name: Mabel
 highlight_name: true
 interests:
-- Data Science & Machine Learning
-- Embedding/ Representation Learning
-- Molecule Representations
-- Medicinal Chemistry and Drug Discovery
-- Biochmistry
+- Data Science
+- Machine Learning
+- Statistical Science
+- Representation Learning
 last_name: Yao
 # name_pronunciation: Mabel Yao
 organizations:
@@ -42,31 +44,33 @@ skills:
     icon_pack: fas
     name: Computational Science
     percent: 80
-  name: Technical
+  name: Techniques
+  
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
-  - description: ""
+  - description: "application domain"
     icon: person-hiking
     icon_pack: fas
-    name: Hiking
+    name: drug discovery
     percent: 60
-  - description: ""
+  - description: "climate change"
     icon: cat
     icon_pack: fas
-    name: Cats
+    name: material discovery
     percent: 100
-  - description: ""
+  - description: "FinTech"
     icon: book
     icon_pack: fas
-    name: Reading
+    name: outlier detection
     percent: 100
-  - description: ""
+  - description: "Engineering"
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Risk Analysis
     percent: 80
-  name: Personal
+  name: Domain Knowledge
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -88,12 +92,12 @@ social:
   link: https://www.linkedin.com/in/mabelqqy/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/Mabel_Yao__cv.pdf
 status:
   icon: ☕️
 superuser: true
-title: Mabel Yao
+title: Mabel Yao (青蓝紫)
 ---
 
-Mabel Yao is a PhD student focusing on data science and machine learning, and applications of the related skills and techniques in multiple domains, such as molecule representations, drug discovery, material discovery. 
+Mabel Yao is a PhD student focusing on data science and machine learning and their applications in multiple domains, such as molecule representations for drug discovery and material discovery. 
 {style="text-align: justify;"}
