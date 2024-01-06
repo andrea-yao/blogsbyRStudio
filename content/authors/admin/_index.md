@@ -1,25 +1,15 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
+  - course: PhD in Data Science & Machine Learning, Statistics
+    institution: NDSU
+first_name: Mabel
 highlight_name: true
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+last_name: Yao
+name_pronunciation: Mabel Yao
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
@@ -64,29 +54,25 @@ skills:
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link:/#contact
 - display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  header: true
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=S7k_gdkAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/andrea-yao
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/mabelqqy/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
+title: 青蓝紫
 ---
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
