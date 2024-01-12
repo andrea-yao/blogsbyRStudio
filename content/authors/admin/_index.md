@@ -96,7 +96,7 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Mabel Yao (青蓝紫)
+title: Mabel Yao
 ---
 
 Mabel Yao is a PhD student focusing on data science and machine learning and their applications in multiple domains, such as molecule representations for drug discovery and material discovery. 
