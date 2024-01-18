@@ -4,17 +4,20 @@ education:
   courses:
   - course: PhD in Data Science & Machine Learning, Statistics
     institution: NDSU
-    year: 2025
+    year: 2026
   - course: Master in Data Science & Machine Learning, Computer Science
     institution: NDSU
     year: 2022
 first_name: Mabel
 highlight_name: true
+
 interests:
 - Data Science
 - Machine Learning
 - Statistical Science
 - Representation Learning
+- Molecule Data Science
+
 last_name: Yao
 # name_pronunciation: Mabel Yao
 organizations:
@@ -34,12 +37,16 @@ skills:
     icon_pack: fas
     name: Data Science
     percent: 100
+  - description: "analysis, modeling, inference"
+    icon: book
+    icon_pack: fas
+    name: Statistical Science
   - description: "SQL, HTML/CSS/JavaScript, Anaconda, Java"
     icon: database
     icon_pack: fas
     name: Computer Science
     percent: 80
-  - description: ""
+  - description: "engineering, life sciences"
     icon: apple
     icon_pack: fas
     name: Computational Science
@@ -49,25 +56,25 @@ skills:
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
-  - description: "application domain"
-    icon: person-hiking
+  - description: "biochemistry, medicinal chemistry, quantum chemistry"
+    icon: chess-board
     icon_pack: fas
-    name: drug discovery
-    percent: 60
-  - description: "climate change"
+    name: drug discovery/ Molecule Data Science
+    percent: 100
+  - description: "Engineerings, Life Sciences, Metrics"
+    icon: camera-retro
+    icon_pack: fas
+    name: Data Analysis
+    percent: 100
+  - description: "catalyst discovery, material discovery"
     icon: cat
     icon_pack: fas
-    name: material discovery
-    percent: 100
+    name: climate change, Energy
+    percent: 80
   - description: "FinTech"
     icon: book
     icon_pack: fas
     name: outlier detection
-    percent: 100
-  - description: "Engineering"
-    icon: camera-retro
-    icon_pack: fas
-    name: Risk Analysis
     percent: 80
   name: Domain Knowledge
 
@@ -99,5 +106,5 @@ superuser: true
 title: Mabel Q. Yao
 ---
 
-Mabel Yao is a PhD student focusing on data science and machine learning and their applications in multiple domains, such as molecule representations for drug discovery and material discovery. 
+Mabel Q. Yao is a PhD student, focusing on data science and machine learning and their applications in an interdeciplinary area including biochemistry, medicinal chemitry and quantum chemistry, focuing on tackling on task of molecule representations for machine learning, which can advance drug discovery, climate change, catalyst in energy, material discovery, etc.
 {style="text-align: justify;"}
