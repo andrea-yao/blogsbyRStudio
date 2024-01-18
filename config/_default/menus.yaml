@@ -22,8 +22,8 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: Personal
+    url: '#personal'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

@@ -62,6 +62,108 @@ molecules don't stand still, so IR spectroscopy can measure these molecular vibr
 Even though it can be a little tedious, we want to be able to recognize different regions on an IR spectrum to make sure our data makes sense when compared to a library spectrum. 
 
 ## 6- Alkanes
+some reactions can only happen if a molecule is in a certain conformation, like a drug fitting into the active site of an enzyme. \
+
+## 7- Cyclohexanes 
+
+## 8- Stereochemistry
+they are still mirror images, but no matter how I flip them around, the dark lenses won't line up, so they are non-superimposable mirror images. 
+\
+in chemistry, we say that anything with a non-superimposable mirror images has chirality. 
+\ 
+we call a pair of these chiral molecules enantiomers. \
+
+## 9- More stereochemical relationships
+chiral molecules also have cool interactions with plane-polarized light: a single enantiomer of the chiral molecule can rotate it left or right. 
+
+## 10- polarity, resonance, and electron pushing
+for magnets, opposite attract has to do with polarity and physics. \
+the structure of molecules informs what they can do and how they react with other chemicals.\
+
+## 11- acidity
+as organic chemists, we need to know how to predict the strength of weak acids and bases. \
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

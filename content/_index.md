@@ -156,23 +156,37 @@ sections:
     columns: "1"
     view: citation
 
+
 #
-# Contact
+# Personal
 #
-- block: contact
+- block: collection
   content:
+    count: 5
+    filters:
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      folders:
+      - personal writing
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    subtitle: ""
     text: ""
-    email: qianqian6.yao@gmail.com
-    contact_links:
-    - icon: linkedin
-      icon_pack: fab
-      link: https://www.linkedin.com/in/mabelqqy/
-      name: Linkedin 
-    title: Contact
-    username: admin
-  id: contact
+    title: Personal
   design:
     columns: "1"
+    view: compact
+  id: personal
+
+
+
+
+
 
 title: ""
 type: landing
