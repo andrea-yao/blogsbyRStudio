@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant in Statistics"
+title: "Teaching Assistant in Statistics, NDSU, US"
 author: "Mabel Q. Yao"
 date: "2024-01-19"
 output: html_document
