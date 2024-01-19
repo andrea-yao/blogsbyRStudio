@@ -63,7 +63,7 @@ sections:
 #
 - block: collection
   content:
-    count: 8
+    count: 10
     filters:
       author: ""
       category: ""
@@ -89,7 +89,7 @@ sections:
 #
 - block: collection
   content:
-    count: 8
+    count: 10
     filters:
       author: ""
       category: ""
@@ -116,7 +116,7 @@ sections:
 # 
 - block: collection
   content:
-    count: 8
+    count: 10
     filters:
       author: ""
       category: ""
@@ -142,7 +142,7 @@ sections:
 #
 - block: collection
   content:
-    count: 8
+    count: 10
     filters:
       author: ""
       category: ""
@@ -169,7 +169,7 @@ sections:
 #
 - block: collection
   content:
-    count: 8
+    count: 10
     filters:
       author: ""
       category: ""
@@ -189,10 +189,6 @@ sections:
     columns: "1"
     view: compact
   id: personal
-
-
-
-
 
 
 title: ""
