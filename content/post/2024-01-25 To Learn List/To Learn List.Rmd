@@ -4,3 +4,14 @@ author: "Mabel Yao"
 date: "2024-01-16"
 output: html_document
 ---
+## Domain Knowledge
+Drug Discovery \
+General Chemistry \
+Organic Chemistry \
+Biochemistry \
+Medicinal Chemistry \
+Quantum Chemistry \
+
+## Statistics and Data Science and Machine Learning 
+All related skills and theories \
+
