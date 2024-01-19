@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant in Statistics, NDSU"
+title: "Teaching Assistant in Statistics"
 author: "Mabel Q. Yao"
 date: "2024-01-19"
 output: html_document
@@ -9,4 +9,3 @@ output: html_document
 
 I am pursuing PhD in Statistics focusing on research of machine learning & data science, with their applications in an interdisciplinary area including biochemistry, medicinal chemistry, and quantum chemistry. \ 
 In this near future, I hope I could hit to the journey successfully, with PhD dissertation done and two papers published. With the targeted future embedded in my heart, I am determined to achieve my goals. \
-
