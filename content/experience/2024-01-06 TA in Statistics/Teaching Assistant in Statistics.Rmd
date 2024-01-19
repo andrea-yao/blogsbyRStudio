@@ -8,6 +8,7 @@ output: html_document
 # 2024~2026: Teaching Assistant in Statistics
 
 I am pursuing PhD in Statistics focusing on research of machine learning & data science, with their applications in an interdisciplinary area including biochemistry, medicinal chemistry, and quantum chemistry. \ 
-In this near future, I hope I could hit to the journey successfully, with PhD dissertation done and two papers published. \
+In this near future, I hope I could hit to the journey successfully, with PhD dissertation done and two papers published. With the targeted future embedded in my heart, I am determined to achieve my goals. \
+
 
 
