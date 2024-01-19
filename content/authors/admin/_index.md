@@ -46,12 +46,12 @@ skills:
     icon: database
     icon_pack: fas
     name: Computer Science
-    percent: 80
+    percent: 100
   - description: "engineering, life sciences, "
     icon: apple
     icon_pack: fas
     name: Computational Science
-    percent: 80
+    percent: 100
   name: Techniques
   
 - color: '#eeac02'
@@ -73,7 +73,7 @@ skills:
     icon: book
     icon_pack: fas
     name: FinTech, Quantitative Finance, Econometric
-    percent: 80
+    percent: 100
     
   name: Domain Knowledge
 
