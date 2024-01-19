@@ -15,6 +15,7 @@ interests:
 - Data Science
 - Machine Learning
 - Statistical Science
+- Computational Science
 - Representation Learning
 - Molecule Data Science
 
@@ -32,21 +33,21 @@ skills:
     icon_pack: fab
     name: Programmings 
     percent: 100
-  - description: "statiscial science, machine learning"
+  - description: "statistical science, machine learning, data science, "
     icon: chart-line
     icon_pack: fas
-    name: Data Science
+    name: Data Science & Machine Learning
     percent: 100
-  - description: "analysis, modeling, inference"
+  - description: "analysis, modeling, inference, "
     icon: book
     icon_pack: fas
     name: Statistical Science
-  - description: "SQL, HTML/CSS/JavaScript, Anaconda, Java"
+  - description: "SQL, HTML/CSS/JavaScript, Anaconda, Java, Algorithms, "
     icon: database
     icon_pack: fas
     name: Computer Science
     percent: 80
-  - description: "engineering, life sciences"
+  - description: "engineering, life sciences, "
     icon: apple
     icon_pack: fas
     name: Computational Science
@@ -56,27 +57,26 @@ skills:
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
-  - description: "biochemistry, medicinal chemistry, quantum chemistry"
+  - description: "biochemistry, medicinal chemistry, quantum chemistry,"
     icon: chess-board
     icon_pack: fas
     name: drug discovery/ Molecule Data Science
     percent: 100
-  - description: "Engineerings, Life Sciences, Metrics"
-    icon: camera-retro
-    icon_pack: fas
-    name: Data Analysis
-    percent: 100
-  - description: "catalyst discovery, material discovery"
+    
+  - description: "catalyst discovery, material discovery,"
     icon: cat
     icon_pack: fas
-    name: climate change, Energy
-    percent: 80
-  - description: "FinTech"
+    name: climate Change, Energy, Environmental, Life Sciences, Metrics, Engineering
+    percent: 100
+    
+  - description: "outlier detection, time series, "
     icon: book
     icon_pack: fas
-    name: outlier detection
+    name: FinTech, Quantitative Finance, Econometric
     percent: 80
+    
   name: Domain Knowledge
+
 
 social:
 - icon: envelope

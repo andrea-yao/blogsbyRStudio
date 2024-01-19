@@ -63,7 +63,7 @@ sections:
 #
 - block: collection
   content:
-    count: 5
+    count: 8
     filters:
       author: ""
       category: ""
@@ -89,7 +89,7 @@ sections:
 #
 - block: collection
   content:
-    count: 6
+    count: 8
     filters:
       author: ""
       category: ""
@@ -116,7 +116,7 @@ sections:
 # 
 - block: collection
   content:
-    count: 6
+    count: 8
     filters:
       author: ""
       category: ""
@@ -142,19 +142,26 @@ sections:
 #
 - block: collection
   content:
+    count: 8
     filters:
-      exclude_featured: true
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
       folders:
       - publication
-    text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    subtitle: ""
+    text: ""
     title: Publications
-  id: publications
   design:
     columns: "1"
-    view: citation
+    view: compact
+  id: publications
 
 
 #
@@ -162,7 +169,7 @@ sections:
 #
 - block: collection
   content:
-    count: 5
+    count: 8
     filters:
       author: ""
       category: ""
