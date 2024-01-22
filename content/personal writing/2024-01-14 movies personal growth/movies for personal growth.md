@@ -7,9 +7,7 @@ output: html_document
 ## 1- Movie: Where the Crawdads Sing
 
 "a young woman who lives alone by herself is immoral". \
-A little girl who was born into a broken family grew up into a totally independent woman who can fend her own world in her own way. \
-Every creature does what it must to survive. \
-As a young woman who doesn't have ambition to build a career or to change the world would probably "get hooked up" easily with a man whoever came into her life, without any awareness that this could be a starting of a disaster. Thus, wake up, get rid of that humanly embedded "romantic relationship" brain, because this is not necessarily better than you by yourself, even could be as worse as hell. \
+A little girl who was born into a broken family grew up into a totally independent woman who can fend her own world in her own way. Every creature does what it must to survive. A young woman who doesn't have ambition to build a career or to change the world would "get hooked up" easily with a man whoever came into her life, without any awareness that this could be a starting of a disaster, even could be as worse as hell. \
 
 
 ## 2- Book: Yellowface, by R.F. Kuang
@@ -18,8 +16,6 @@ But got inspired to think what if I could also write a book in English?
 
 
 ## 3- "I killed myself". 
-Can you kill yourself and reborn into anyone you want to be?\
-or\
 Have you ever killed yourself and how were you born again? 
 
 ## 4- Song: The Let Go by Elle King
