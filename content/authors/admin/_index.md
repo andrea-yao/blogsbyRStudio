@@ -87,7 +87,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/zibuyu34788319
+  link: 
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=S7k_gdkAAAAJ&hl=en&authuser=1
