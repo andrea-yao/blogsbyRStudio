@@ -81,7 +81,7 @@ skills:
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: uploads/Mabel_Yao__cv.pdf
 - display:
     header: true
 - icon: graduation-cap
