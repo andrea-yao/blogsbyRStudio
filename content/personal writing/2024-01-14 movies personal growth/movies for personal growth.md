@@ -9,8 +9,8 @@ output: html_document
 A young girl who was born into a broken family and grew up on marsh have grown into totally independent woman who can fend her own world in her own way. Way out yonder where the crawdads sing, the marsh knows one thing above all else, every creature does what it must to survive. A young woman who doesn't have ambitions to build a career or to change the world would probably "hook up" easily with man whoever came into her life, without any awareness that this could be a starting of a disaster, even could be as worse as hell. 
 
 ## Song: the let go elle king
-[中島美嘉 『雪の華』](https://www.youtube.com/watch?v=oIoaIlPpIcA)
-[米津玄師 - Lemon ](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
-[Lana Del Rey - Young and Beautiful](https://www.youtube.com/watch?v=o_1aF54DO60)
-
-
+[中島美嘉 『雪の華』](https://www.youtube.com/watch?v=oIoaIlPpIcA)\
+[米津玄師 - Lemon ](https://www.youtube.com/watch?v=SX_ViT4Ra7k)\
+[Lana Del Rey - Young and Beautiful](https://www.youtube.com/watch?v=o_1aF54DO60)\
+[汪苏泷《行走的鱼》](https://www.bilibili.com/video/BV1At4y1R7Jn/?spm_id_from=333.337.search-card.all.click&vd_source=7ba5134aadfa5d9f402b891f56fa713d)\
+[李富真](https://www.bilibili.com/video/BV1dv411w7iG/?spm_id_from=333.999.list.card_archive.click&vd_source=7ba5134aadfa5d9f402b891f56fa713d)
