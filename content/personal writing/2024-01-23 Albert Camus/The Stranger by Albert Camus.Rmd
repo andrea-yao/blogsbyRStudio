@@ -1,9 +1,0 @@
----
-title: "The Stranger by Albert Camus"
-author: "Mabel Q. Yao"
-date: "2024-01-24"
-output: html_document
----
-
-The Stranger，Albert Camus
-The Razor's Edge， William Somerset Maugham
