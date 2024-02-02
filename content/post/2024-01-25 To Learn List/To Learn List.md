@@ -1,35 +1,30 @@
 ---
-title: 'To Learn List: Domain Knowledge + Statistics/Data Science/Machine Learning + Writing Skills'
+title: 'To Learn List: Statistics/Data Science/Machine Learning + Domain Knowledge + Writing Skills'
 author: "Mabel Yao"
 date: "2024-01-16"
 output: html_document
 ---
+
+## Statistics and Data Science and Machine Learning 
+Basic Math: calculus, linear algebra, probability \
+All advanced skills and theories \
+Understand the mathematical theories behind the Computational Models\
+Extract the computational tasks from domain knowledge and build the appropriate models
+
 ## Domain Knowledge
-Drug Discovery and Drug Design \
-\
-General Chemistry \
-Organic Chemistry \
-Biochemistry \
-Medicinal Chemistry \
+Drug Discovery and Drug Design\
+General Chemistry, Organic Chemistry, Biochemistry, Medicinal Chemistry\
 Quantum Chemistry \
-Molecule Representations for Machine Learning \ 
-\
 Molecular Biology\
 Genetics and Molecular Biology\
 
-
-## Statistics and Data Science and Machine Learning 
-All related skills and theories \
-Understand the mathematical theories behind the Computational Models\
+Molecule Representations for Machine Learning 
 
 ## English Writing Skills
 Creative English Writing\
-Professional English Writing \
+Professional English Writing 
 
 ## Spoken English Skills
 precisely express yourself\
-Pick the right words to deliver your thoughts\
-
-
-
+Pick the right words to deliver your thoughts
 
