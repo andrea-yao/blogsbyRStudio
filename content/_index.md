@@ -131,7 +131,7 @@ sections:
     order: desc
     subtitle: ""
     text: ""
-    title: Experiences
+    title: WorkExperiences
   design:
     columns: "1"
     view: compact
