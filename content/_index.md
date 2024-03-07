@@ -163,6 +163,33 @@ sections:
     view: compact
   id: publications
 
+#
+# storytelling
+#
+- block: collection
+  content:
+    count: 10
+    filters:
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      folders:
+      - post
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    subtitle: ""
+    text: ""
+    title: StoryTelling
+  design:
+    columns: "1"
+    view: compact
+  id: storytelling
+
+
 title: ""
 type: landing
 ---
