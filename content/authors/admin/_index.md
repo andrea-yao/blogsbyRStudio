@@ -18,9 +18,10 @@ interests:
 - Computational Science
 - Representation Learning
 - Molecule Data Science
+- Biomedical Data Science
 
 last_name: Yao
-# name_pronunciation: Mabel Yao
+# name_pronunciation: Mabel Qianqian Yao
 organizations:
 - name: NDSU
   url: 

@@ -176,7 +176,7 @@ sections:
       exclude_future: false
       exclude_past: false
       folders:
-      - post
+      - personal
       publication_type: ""
       tag: ""
     offset: 0
