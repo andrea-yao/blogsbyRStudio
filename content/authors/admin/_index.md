@@ -75,5 +75,5 @@ superuser: true
 title: Mabel Qianqian Yao
 ---
 
-Mabel Qianqian Yao is a doctoral graduate student, focusing on data science and machine learning and their applications in an interdisciplinary area including biomedicine, biochemistry, medicinal chemistry and quantum chemistry, focusing on computational tasks in the processes of drug discovery and precision medicine.
+Mabel Qianqian Yao is a doctoral graduate student, focusing on statistical theory, data science and machine learning. 
 {style="text-align: justify;"}
