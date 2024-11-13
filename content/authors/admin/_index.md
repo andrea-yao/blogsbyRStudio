@@ -25,7 +25,7 @@ organizations:
   url: 
 role: PhD student focusing on data science & machine learning
 
-skills and Interests:
+skills:
 - items:
   - description: "Python, R, SAS, Julia, Latex, etc."
     icon: python

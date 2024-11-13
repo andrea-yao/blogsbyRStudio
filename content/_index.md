@@ -49,7 +49,7 @@ sections:
 #
 # Skill
 #
-- block: skills and interests
+- block: skills
   content:
     text: ""
     title: Skills
