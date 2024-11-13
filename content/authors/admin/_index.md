@@ -16,9 +16,7 @@ interests:
 - Machine Learning
 - Statistical Science
 - Computational Science
-- Representation Learning
-- Molecule Data Science
-- Biomedical Data Science
+
 
 last_name: Yao
 # name_pronunciation: Mabel Qianqian Yao
