@@ -59,10 +59,10 @@ social:
     header: true
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=S7k_gdkAAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?user=S7k_gdkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/andrea-yao
+  link: https://github.com/mabel-qq-yao
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mabelqqy/
