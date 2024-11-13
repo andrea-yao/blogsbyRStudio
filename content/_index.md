@@ -52,7 +52,7 @@ sections:
 - block: skills
   content:
     text: ""
-    title: Skills
+    title: Skills 
     username: admin
   id: skills
   design:
@@ -112,32 +112,6 @@ sections:
 
 
 #
-# Experiences
-# 
-- block: collection
-  content:
-    count: 10
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - experience
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: WorkExperiences
-  design:
-    columns: "1"
-    view: compact
-  id: experiences
-
-#
 # publication
 #
 - block: collection
@@ -163,6 +137,31 @@ sections:
     view: compact
   id: publications
 
+#
+# Experiences
+# 
+- block: collection
+  content:
+    count: 10
+    filters:
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      folders:
+      - experience
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    subtitle: ""
+    text: ""
+    title: WorkExperiences
+  design:
+    columns: "1"
+    view: compact
+  id: experiences
 
 
 
