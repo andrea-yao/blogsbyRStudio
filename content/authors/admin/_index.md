@@ -2,20 +2,18 @@
 bio: 
 education:
   courses:
-  - course: PhD in Data Science & Machine Learning, Statistics
+  - course: PhD, Statistics
     institution: NDSU
     year: 2026
-  - course: Master in Data Science & Machine Learning, Computer Science
+  - course: Master, Computer Science
     institution: NDSU
     year: 2022
 first_name: Mabel
 highlight_name: true
 
 interests:
-- Data Science
-- Machine Learning
-- Statistical Science
-- Computational Science
+- Statistical Inference, Data Science, Machine Learning, 
+
 
 
 last_name: Yao
@@ -23,7 +21,7 @@ last_name: Yao
 organizations:
 - name: NDSU
   url: 
-role: PhD student focusing on data science & machine learning
+role: PhD Candidate focusing on statistical science, data science & machine learning
 
 skills:
 - items:
@@ -53,28 +51,7 @@ skills:
     percent: 100
   name: Techniques
   
-- color: '#eeac02'
-  color_border: '#f0bf23'
-  items:
-  - description: "biochemistry, medicinal chemistry, quantum chemistry,"
-    icon: chess-board
-    icon_pack: fas
-    name: drug discovery/ Molecule Data Science
-    percent: 100
-    
-  - description: "catalyst discovery, material discovery,"
-    icon: cat
-    icon_pack: fas
-    name: climate Change, Energy, Environmental, Life Sciences, Metrics, Engineering
-    percent: 100
-    
-  - description: "outlier detection, time series, "
-    icon: book
-    icon_pack: fas
-    name: FinTech, Quantitative Finance, Econometric
-    percent: 100
-    
-  name: Domain Knowledge
+
 
 
 social:
