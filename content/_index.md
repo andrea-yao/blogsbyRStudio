@@ -59,58 +59,6 @@ sections:
     columns: "1"
 
 #
-# Projects
-#
-- block: collection
-  content:
-    count: 10
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - project
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: Projects
-  design:
-    columns: "1"
-    view: compact
-  id: projects
-
-#
-# publication
-#
-- block: collection
-  content:
-    count: 10
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - publication
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: Publications
-  design:
-    columns: "1"
-    view: compact
-  id: publications
-
-#
 # blogs
 #
 - block: collection
@@ -136,6 +84,31 @@ sections:
     view: compact
   id: blogs
 
+#
+# Projects
+#
+- block: collection
+  content:
+    count: 10
+    filters:
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      folders:
+      - project
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    subtitle: ""
+    text: ""
+    title: Projects
+  design:
+    columns: "1"
+    view: compact
+  id: projects
 
 
 #
@@ -164,7 +137,31 @@ sections:
     view: compact
   id: experiences
 
-
+#
+# publication
+#
+- block: collection
+  content:
+    count: 10
+    filters:
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      folders:
+      - publication
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    subtitle: ""
+    text: ""
+    title: Publications
+  design:
+    columns: "1"
+    view: compact
+  id: publications
 
 
 
